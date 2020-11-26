@@ -8,3 +8,7 @@ Migrate command :
 
 Migrate command with env : 
 	- npx sequelize-cli db:migrate --env production
+
+
+Reference Link :
+	- https://bezkoder.com/node-js-express-sequelize-mysql/
